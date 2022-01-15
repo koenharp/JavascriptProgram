@@ -1,1 +1,9 @@
 // use the example and make your changes here
+console.log ("Hello World")
+              Hello + here
+              Happy New Year
+Const  num 1=5,;
+Const  num 2=3,;
+Const  sum = num1+num2;
+Console.log ('the sum of'+ num+' and'+ num2+' is; '+sum
+Const inpl=parse Int(prompt('Enter the First number')); 
